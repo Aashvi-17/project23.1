@@ -11,7 +11,7 @@ function preload()
 	backgroundimg=loadImage("flood background.gif")
 	helicopterIMG=loadImage("helicopter.png")
 	packageIMG=loadImage("package.png")
-	humanimg=loadImage("human.PNG")
+	humanimg=loadImage("package.PNG")
 	streetlampimg=loadImage("street.png");
 	
 }
